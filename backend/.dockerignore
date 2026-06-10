@@ -1,0 +1,8 @@
+.pytest_cache/
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.db
+*.log
+run_local_sqlite.py
